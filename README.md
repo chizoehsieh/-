@@ -1,5 +1,5 @@
 # 宜蘭大冒險
-[遊戲網址](https://editor.p5js.org/chizoehsieh/sketches/7axCArNlo)
+[遊戲網址](https://editor.p5js.org/chizoehsieh/full/7axCArNlo)
 
 ## 創作背景
 宜蘭是一個充滿傳統技藝的縣市，還保有許多文化習俗跟傳統，但一般遊客並不容易認識這些傳統文化，因此，我們想藉由這個遊戲讓更多人在遊玩遊戲中，更認識宜蘭的傳統文化。
